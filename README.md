@@ -10,3 +10,5 @@ Animmator diagram
 ![flow_mg flow_popup](docs/img/animator.png)
 ## Game Screenshot
 ![flow_mg flow_popup](docs/img/gameplay.png)
+## Link to Play
+[Play game](https://poppod.github.io/Unity_Self_Programming_Training_HTML5/)
